@@ -1,0 +1,20 @@
+{
+    "Author": "Joe Levy_",
+    "ContentSize": 2970,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/download-a-blob-from-azure-storage/master/Copy-BlobFromAzureStorage.ps1",
+    "DownloadCount": 3462,
+    "Id": "a-Blob-from-Azure-Storage-6bc13745",
+    "IsFederated": true,
+    "IsWorkflow": true,
+    "Popularity": 199,
+    "RaterCount": 2,
+    "Rating": 5.0,
+    "ReleaseDate": "2014-6-19T00:00:00",
+    "RunbookKind": 6,
+    "RunbookKindString": "PowerShell Workflow",
+    "Summary": "This runbook downloads an Azure blob to the host running the runbook job.",
+    "Title": "Download a Blob from Azure Storage",
+    "UpdatedDate": "2014-11-30T00:00:00",
+    "Url": "https://github.com/azureautomation/download-a-blob-from-azure-storage",
+    "UserTags": "Microsoft Azure, Download, Utility"
+}
